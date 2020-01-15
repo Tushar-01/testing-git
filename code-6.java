@@ -11,7 +11,8 @@ static int CountTriplets(int[] arr, int n)
     { 
   
         // First element of the 
-        // current sub-array 
+        // current sub-array
+	// Geeks for geeks code 
         int first = arr[i]; 
         for (int j = i + 1; j < n; j++)  
         { 
