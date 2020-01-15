@@ -76,6 +76,8 @@ class Graph
         1-----2 */
         int V = 3, E = 3; 
         //Code begins from here
+	//This is a graph code
+	//ammendments are added
 	Graph graph = new Graph(V, E); 
   
         // add edge 0-1 
