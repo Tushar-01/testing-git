@@ -80,7 +80,8 @@ class Graph
 	//ammendments are added
 	Graph graph = new Graph(V, E); 
   
-        // add edge 0-1 
+        //Edges are created
+       	// add edge 0-1 
         graph.edge[0].src = 0; 
         graph.edge[0].dest = 1; 
   
