@@ -38,7 +38,7 @@ static int Max_Xor(int arr[], int n, int k)
     } 
     return maxXor; 
 } 
-  
+// Main class begins from here  
 // Driver code 
 public static void main(String[] args) 
 { 
