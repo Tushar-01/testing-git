@@ -57,7 +57,7 @@ public class SSTF {
           
         // stores sequence in which disk access is done 
         int[] seek_sequence = new int[request.length + 1];  
-          
+        //new for loop  
         for (int i = 0; i < request.length; i++) { 
               
             seek_sequence[i] = head; 
